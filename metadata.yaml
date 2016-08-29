@@ -1,0 +1,32 @@
+_repo: The-Naval-Pioneers-of-Australia_12992
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Becke, Louis
+    alias: Becke, George Louis
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '1317'
+    url: http://www.gutenberg.org/2009/agents/1317
+    wikipedia: http://en.wikipedia.org/wiki/George_Lewis_Becke
+  - agent_name: Jeffery, Walter
+    birthdate: 1861
+    deathdate: 1922
+    gutenberg_agent_id: '38381'
+    url: http://www.gutenberg.org/2009/agents/38381
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Australia -- Discovery and exploration'
+- GITenberg
+title: The Naval Pioneers of Australia
+url: http://www.gutenberg.org/ebooks/12992
